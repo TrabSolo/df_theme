@@ -25,3 +25,6 @@
     display: initial !important;
 }
 
+.makeUpperCase {
+    text-transform: uppercase !important;
+}
